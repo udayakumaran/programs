@@ -1,0 +1,13 @@
+import java.util.*;
+import java.io.*;
+
+class type3
+{
+public static void main(string arg[])
+
+{
+
+String split[]= StringUtils.split("Hello I'm your String");
+System.out.println(split);
+}
+}
